@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Free CRM Test Automation SUite]" guice-stage="DEVELOPMENT">
+  <test name="App TEst Cases(failed)">
+    <classes>
+      <class name="com.haltrip.qa.testcases.ContactsPageTest">
+        <methods>
+          <include name="EventsDisplayed"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.haltrip.qa.testcases.ContactsPageTest -->
+    </classes>
+  </test> <!-- App TEst Cases(failed) -->
+</suite> <!-- Failed suite [Free CRM Test Automation SUite] -->
