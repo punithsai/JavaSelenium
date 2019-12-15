@@ -22,6 +22,7 @@ public class TestBase {
 	
 	public TestBase()
 	{
+		int i,j;
 		try
 		
 		{
